@@ -4,5 +4,7 @@
 </head>
 <body>
 <h4>Title</h4>
+<hr />
+<p>Paragraph</p>
 </body>
 </html>
